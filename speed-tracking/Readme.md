@@ -37,7 +37,7 @@ cd speed-tracking
 git init
 
 # 2. Add the remote and enable sparse checkout
-git remote add origin https://github.com/Pavankunchala/LLM-Learn-PK.git
+git remote add origin [https://github.com/Maheshvarma555/My_projects]
 git config core.sparseCheckout true
 
 # 3. Specify the folder you want
